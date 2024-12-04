@@ -1,0 +1,10 @@
+.juego-dardos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #imagen-x {
+    position: absolute;
+    width: 80px; 
+  }
